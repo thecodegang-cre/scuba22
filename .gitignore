@@ -1,0 +1,6 @@
+# OpenVPN runtime and generated credential files
+*.ovpn
+*.key
+*.crt
+*.pem
+!openvpn/client-template.ovpn
